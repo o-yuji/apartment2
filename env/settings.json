@@ -1,0 +1,6 @@
+{
+  "TRAIN_DIR":"./data/train/",
+  "TEST_DIR":"./data/test.csv",
+  "ADDITIONAL_DATA_DIR":"./data",
+  "PROCESSED_DATA_DIR":"./data/processed/"
+}
