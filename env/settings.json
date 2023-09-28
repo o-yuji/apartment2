@@ -1,6 +1,10 @@
 {
   "TRAIN_DIR":"./data/train/",
   "TEST_DIR":"./data/test.csv",
-  "ADDITIONAL_DATA_DIR":"./data",
-  "PROCESSED_DATA_DIR":"./data/processed/"
+  "ADDITIONAL_DATA_DIR":"./data/",
+  "PROCESSED_DATA_DIR":"./data/processed/",
+  "TRAIN_PROCESSED_DATA_PATH":"./data/processed/01_EDA_preprocessed_train.csv",
+  "TEST_PROCESSED_DATA_PATH":"./data/processed/01_EDA_preprocessed_test.csv",
+  "SUBMISSION_DIR":"./data/submission/sample_submission.csv",
+  "OUTPUT_DIR":"./data/output/"
 }
